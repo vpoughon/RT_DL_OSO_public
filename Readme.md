@@ -1,5 +1,5 @@
 # Summary
-- [Environement](#env)
+- [Environnement](#env)
 - [Create train test DB](#DB)
 - [Rasterize labels](#rasterize)
 - [Preprocessing](#preprocess)
@@ -9,7 +9,7 @@
 - [Random Forest learning ](#RF_learning)
 - [Random Forest classification ](#RF_classif)
 
-# Environement <a name="env"></a>
+# Environnement <a name="env"></a>
 This code was developped and tested with following software environnement:
 - CentOS 7
 - python 3.5
